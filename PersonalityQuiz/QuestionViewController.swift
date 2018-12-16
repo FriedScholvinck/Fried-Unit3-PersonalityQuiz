@@ -38,12 +38,10 @@ class QuestionViewController: UIViewController {
     @IBOutlet weak var rangedLabel1: UILabel!
     @IBOutlet weak var rangedLabel2: UILabel!
     
-    
-    
     // create outlet for progress bar
     @IBOutlet weak var questionProgressView: UIProgressView!
     
-    
+    /// 
     func updateUI() {
         singleStackView.isHidden = true
         multipleStackView.isHidden = true
