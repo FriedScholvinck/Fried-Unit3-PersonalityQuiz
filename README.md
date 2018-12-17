@@ -5,4 +5,3 @@ This app introduces the user to a personality quiz with three questions. The ans
 ![intro](/doc/Introduction.png)
 ![quiz1](/doc/Quiz1.png) ![quiz2](/doc/Quiz2.png) ![quiz3](/doc/Quiz3.png) ![quiz4](/doc/Quiz4.png)
 ![result](/doc/Result.png)
-
